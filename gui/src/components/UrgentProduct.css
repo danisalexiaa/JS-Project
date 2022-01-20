@@ -1,0 +1,45 @@
+.urgent-product {
+    height: 100px;
+    width: 200px;
+    background-color: tomato;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: row wrap;
+    padding: 10px;
+    border: 5px solid red;
+    border-radius: 10%;
+    float: left;
+    clear: bot;
+}
+
+.urgent-product .denumire {
+    height: 30px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: coral;
+    border-radius: 10%;
+}
+
+.urgent-product .categorie {
+    height: 30px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: lightsalmon;
+    border-radius: 10%;
+}
+
+.urgent-product .expirare {
+    height: 30px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: coral;
+    border-radius: 10%;
+}

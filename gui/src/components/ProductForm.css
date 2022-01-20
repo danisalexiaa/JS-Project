@@ -1,0 +1,46 @@
+.product-form {
+    height: 230px;
+    width: 200px;
+    background-color: gainsboro;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: row wrap;
+    padding: 10px;
+    border-radius: 10%;
+    border: 5px solid darkgrey;
+    clear: left;
+}
+
+.product-form .productname {
+    height: 60px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.product-form .productcategorie {
+    height: 60px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.product-form .productexpirare {
+    height: 40px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.product-form .add {
+    height: 40px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
